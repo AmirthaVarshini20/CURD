@@ -1,5 +1,5 @@
-# DEVELOP A DJANGO-BASED CRUD APPLICATION
-
+# EX.No: 02 DEVELOP A DJANGO-BASED CRUD APPLICATION
+## Date:
 ## AIM
 
 To develop a Django-based web application that performs CRUD (Create, Read, Update, and Delete) operations on student records.
